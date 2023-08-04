@@ -1,4 +1,4 @@
-## [Vite](https://vitejs.dev/) + [React](https://reactjs.org/) + [TypeScript](https://www.typescriptlang.org/) Starter - fork of [react-ts-starter](https://github.com/CodingGarden/react-ts-starter)
+## [Vite](https://vitejs.dev/) + [React](https://reactjs.org/) + [TypeScript](https://www.typescriptlang.org/) Starter
 
 This setup includes:
 
