@@ -1,0 +1,16 @@
+
+# configs 
+tailwind.config.cjs
+tsconfig.json
+tsconfig.node.json
+postcss.config.cjs
+
+
+node_modules
+dist
+coverage
+build
+public
+
+
+.eslintrc.cjs
